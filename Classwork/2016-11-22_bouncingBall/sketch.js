@@ -6,7 +6,7 @@ var d = 100;                //Set the diameter to 100
 
 function setup() {
 	createCanvas(600, 600);   //Create the canvas
-	fill(200, 0, 0);          //Set the fill to red
+	fill(0, 200, 0);          //Set the fill to red
 }
 
 function draw() {           //The draw loop will run as long as the page is open in your browser
